@@ -1,5 +1,5 @@
 {
-  "killswitch": false,
+  "killswitch": true,
   "mac": [
     "C4:46:19:25:5E:89",
     "C6:46:19:25:5E:89",
