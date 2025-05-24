@@ -1,5 +1,5 @@
 {
-  "killswitch": false,
+  "killswitch": true,
   "mac": [
     "D8:43:AE:97:9E:72",
     "9C:2D:CD:F0:2C:77",
